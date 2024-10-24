@@ -1,0 +1,64 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: white;
+    color: black;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+#controls {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+}
+
+.control {
+    margin-bottom: 15px;
+}
+
+#preview {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+#sample h3 {
+    font-size: 24px;
+}
+
+#sample p {
+    font-size: 16px;
+}
+
+#sample button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#sample button:hover {
+    background-color: #0056b3;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button2:hover {
+    background-color: lightgray;
+}

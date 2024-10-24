@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Theme Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Dynamic CSS Theme Generator</h1>
+    </header>
+
+    <section id="controls">
+        <h2>Customize Theme</h2>
+        <div class="control">
+            <label for="primary-color">Button Color</label>
+            <input type="color" id="primary-color" value="#007bff">
+        </div>
+        <div class="control">
+            <label for="background-color">Background Color</label>
+            <input type="color" id="background-color" value="#ffffff">
+        </div>
+        <div class="control">
+            <label for="text-color">Text Color</label>
+            <input type="color" id="text-color" value="#000000">
+        </div>
+        <div class="control">
+            <label for="font-size">Font Size</label>
+            <input type="range" id="font-size" min="12" max="36" value="16">
+        </div>
+        <div class="control">
+            <label for="font-family">Font Family</label>
+            <select id="font-family">
+                <option value="'Arial', sans-serif">Arial</option>
+                <option value="'Georgia', serif">Georgia</option>
+                <option value="'Courier New', monospace">Courier New</option>
+            </select>
+        </div>
+
+        <!-- Apply Button -->
+        <button id="apply-btn" class="button2">Apply Theme</button>
+    </section>
+
+
+
+
+    <section id="preview">
+        <h2>Live Preview</h2>
+        <div id="sample">
+            <h3>Sample Heading</h3>
+            <p>This is a sample paragraph to demonstrate your theme changes in real-time.</p>
+            <button>Sample Button</button>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
