@@ -23,7 +23,7 @@ This project is a **proof-of-concept** for a Dynamic CSS Theme Generator. It all
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE.md).
 
 ## Acknowledgements
 
