@@ -1,52 +1,34 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: white;
-    color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-h1,
-h2 {
-    text-align: center;
+#container {
+    display: flex;
+    height: 100vh;
 }
 
-#controls {
-    margin: 20px;
-    padding: 20px;
+#sidebar {
     background-color: #f0f0f0;
-    border-radius: 8px;
+    padding: 20px;
+    width: 250px;
+}
+
+#preview {
+    padding: 20px;
+    flex-grow: 1;
 }
 
 .control {
     margin-bottom: 15px;
 }
 
-#preview {
-    margin: 20px;
-    padding: 20px;
+#live-view {
+    min-height: 500px;
     background-color: #ffffff;
+    padding: 20px;
     border: 1px solid #ccc;
-    border-radius: 8px;
-}
-
-#sample h3 {
-    font-size: 24px;
-}
-
-#sample p {
-    font-size: 16px;
-}
-
-#sample button {
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-#sample button:hover {
-    background-color: #0056b3;
 }
 
 .button2 {
@@ -61,4 +43,23 @@ h2 {
 
 .button2:hover {
     background-color: lightgray;
+}
+
+.menu {
+    position: absolute;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 5px;
+    display: none;
+}
+
+.menu-btn {
+    margin-bottom: 5px;
+}
+
+.menu-color,
+.menu-select,
+.menu-input {
+    display: none;
+    margin-bottom: 10px;
 }
