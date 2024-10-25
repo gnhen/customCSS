@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>delete-02-stroke-rounded</title>
+	<defs>
+		<image  width="20" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAMAAAD3n0w0AAAAAXNSR0IB2cksfwAAASNQTFRFxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAxhAAV+4qDwAAAGF0Uk5TAE2nu6lRTP3gvr3e/lQC19EFA8jhBxhEY3T/j4GEQhWsaH+AZiJfYSASb3EQfirzjTaQ7+OdQKDUsNDEvMC1y6Xb36Hw9Yp7CydcLG5zJbpPAVO0F83qzOzJEwZamaqYV/L1xG0AAAEdSURBVHicY2SAAEZGRiD+DeVAKDZGCPiMJMgH5L9nEAKSr8GCYoyM/xmYGBn/ADms/5h/MTACdSn8YkAHbIxi3D85viKJ8Hzn+s3IoPqV5xaSoPpnvhuMDJofBa4hCWq/F7rCyCD0S/EyA4PeJQYIofyE/RPQSfqMFxgMX4qfhxBGjGdB7jRhPM1g9kTmFIQwv/gDJGjx4gGSoCXjMZCgNeMRJEFbhsMgQTvGg0iCVv+PgwQdGPcjCTox7gUJGgntQbLdlXEXSND98u/XcHd6XPr/HCQowcR9G+4hz4sG20CC3ueNtsAFfc+abAIHsv8DxQ0QoUDGz3xrISEfwnjUhpHhGYMUA+Mhe8Zl0OiIBsbDUgYGH35Gxo3vgXwA2tFiddjfPTIAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="2" y="1"/>
+</svg>

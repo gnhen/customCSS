@@ -57,9 +57,21 @@ body {
     margin-bottom: 5px;
 }
 
+.menu strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
 .menu-color,
 .menu-select,
 .menu-input {
-    display: none;
     margin-bottom: 10px;
+}
+
+.delete-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    top: 5px;
+    right: 5px;
 }
